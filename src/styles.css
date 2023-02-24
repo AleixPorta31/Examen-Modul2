@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Tilt Neon', cursive;
+    margin: 50px 50px;
+    
+}
+
+.links {
+    width: 25%;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.partes {
+    display: flex;          
+}
+
+.parte1{
+    margin-right: 20px;
+}
+
+.pie-pagina{
+    height: 60px;
+}
+
+.cabezera h1{
+    text-transform: uppercase;
+}
+
+nav a{
+    text-decoration: none;
+    color:darkgray;
+}
